@@ -1,0 +1,37 @@
+body{
+	background-color: rgba(10, 100, 100, 1);
+	color: #fff;
+	text-align: center;
+}
+.social-link{
+	background-color: blue;
+	color: #ddd;
+	text-decoration: none;
+	padding: 10px 20px;
+	margin: 10px;
+	border-radius: 15px;
+}
+mark{
+	font-size: 30px;
+}
+img{
+	border-radius: 10px;
+}
+p{
+	font-size: 20px;
+	font-weight: 500;
+}
+.form-control{
+	font-size: 18px;
+	padding: 15px;
+	border: 2px solid black;
+	border-radius: 5px;
+	width: 30%;
+}
+.form-btn{
+	font-size: 18px;
+	padding: 15px;
+	border: 2px solid black;
+	border-radius: 5px;
+	cursor: pointer;
+}
